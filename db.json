@@ -1,10 +1,48 @@
 {
   "usuarios": [
     {
-      "id": "1504",
+      "id": "947e",
       "nome": "Felipe",
-      "renda": "4000"
+      "renda": "5500",
+      "orcamentoDiario": 183.33333333333334
     }
   ],
-  "transacoes": []
+  "transacoes": [
+    {
+      "id": "870e",
+      "nome": "Livro",
+      "valor": 40,
+      "tipo": "despesa",
+      "categoria": "Estudos",
+      "data": "2026-01-14",
+      "userId": "947e"
+    },
+    {
+      "id": "762d",
+      "nome": "Pix",
+      "valor": 40,
+      "tipo": "receita",
+      "categoria": "Pagamentos",
+      "data": "2026-01-15",
+      "userId": "947e"
+    },
+    {
+      "id": "a9f5",
+      "nome": "Livro",
+      "valor": 100,
+      "tipo": "despesa",
+      "categoria": "Casa",
+      "data": "2026-01-11",
+      "userId": "947e"
+    },
+    {
+      "id": "1985",
+      "nome": "Doce",
+      "valor": 10,
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2026-01-01",
+      "userId": "947e"
+    }
+  ]
 }
